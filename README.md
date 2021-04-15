@@ -2,6 +2,7 @@
 Application Overview:
 In a 6 day agile-scrum sprint, our team created "Nutshell", a social media style dashboard for a user to organize daily tasks, events, news article, friends, and chat messages.
   
+  [Watch the video demo here!](https://youtu.be/vy5shgVO6YU)
 
 # To run this app, follow these instructions:
 Make sure you have Node.js and npm installed
